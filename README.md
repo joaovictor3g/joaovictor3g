@@ -8,3 +8,6 @@
 - 🌱 I’m currently learning ReactJS, NodeJS, ReactNative
 - 👯 I’m looking to collaborate on great projects lol.
 - Interests: My focus are JavaScript, ReactJS, NodeJS, React Native, TypeScript, NextJS.
+
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
