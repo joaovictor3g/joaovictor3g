@@ -10,4 +10,4 @@
 - Interests: My focus are JavaScript, ReactJS, NodeJS, React Native, TypeScript, NextJS.
 
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/joaovictor3g/joaovictor3g/blob/output/github-contribution-grid-snake.svg)
