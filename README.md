@@ -3,7 +3,7 @@
 <!--
 **joaovictor3g/joaovictor3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently full developer at Insight Labs.
+- 🔭 I’m currently full developer at Insight Data Science Lab.
 - Passionate about for the better frontend techs.
 - 🌱 I’m currently learning ReactJS, NodeJS, ReactNative
 - 👯 I’m looking to collaborate on great projects lol.
