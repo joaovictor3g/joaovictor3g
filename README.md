@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning ReactJS, NodeJS, ReactNative
 - 👯 I’m looking to collaborate on great projects lol.
 - Interests: My focus are JavaScript, ReactJS, NodeJS, React Native, TypeScript, NextJS.
+https://joaovictord.dev
 <div>
   <a href="https://github.com/joaovictor3g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor3g&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
