@@ -9,8 +9,8 @@ My Name is João Victor.
 - https://moveit.joaovictord.dev
 - https://fastburger.joaovictord.dev
 
-<!-- __Latest App__
-- https://todo.joaovictord.dev -->
+__Latest App__
+- https://todo.joaovictord.dev
 
 <!-- <div>
   <a href="https://github.com/joaovictor3g">
