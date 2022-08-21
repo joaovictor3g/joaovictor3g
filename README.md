@@ -8,9 +8,10 @@ My Name is João Victor.
 - https://lma.joaovictord.dev
 - https://moveit.joaovictord.dev
 - https://fastburger.joaovictord.dev
+- https://todo.joaovictord.dev
 
 __Latest App__
-- https://todo.joaovictord.dev
+- http://github-blog.joaovictord.dev/
 
 <!-- <div>
   <a href="https://github.com/joaovictor3g">
