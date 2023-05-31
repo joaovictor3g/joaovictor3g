@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hi there 
 
-My Name is João Victor.
-
+My Name is João Victor. I am frontend developer. See more information about me in my personal site:
 - https://joaovictord.dev
-- https://blog.joaovictord.dev
+<!-- - https://blog.joaovictord.dev
 - https://worldtrip.joaovictord.dev
 - https://lma.joaovictord.dev
 - https://moveit.joaovictord.dev
@@ -11,7 +10,7 @@ My Name is João Victor.
 - https://todo.joaovictord.dev
 
 __Latest App__
-- http://github-blog.joaovictord.dev/
+- http://github-blog.joaovictord.dev/ -->
 
 <!-- <div>
   <a href="https://github.com/joaovictor3g">
